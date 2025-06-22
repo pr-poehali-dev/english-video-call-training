@@ -75,7 +75,7 @@ const ContactSection = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold mb-1">Telegram</h3>
-                    <p className="text-gray-600">@englishlearn_bot</p>
+                    <p className="text-gray-600">@poehali_support</p>
                   </div>
                 </div>
               </CardContent>
